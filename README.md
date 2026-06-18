@@ -9,7 +9,7 @@
   <a href="mailto:tiwaririteek429@gmail.com">
     <img src="https://img.shields.io/badge/Email-tiwaririteek429%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/riteek-tiwari-0323a5361/">
+  <a href="https://www.linkedin.com/in/riteek-raj-tiwari-0323a5361/">
     <img src="https://img.shields.io/badge/LinkedIn-Riteek%20Raj%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/tiwari369">
