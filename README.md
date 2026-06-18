@@ -1,4 +1,4 @@
-```markdown
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:00C9A7,100:7F5AF0&height=180&section=header&text=Riteek%20Raj%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20GATE%20CS%20Qualified%20%7C%20ML%20and%20Computer%20Vision&descSize=15&descAlignY=58" />
 
 <p align="center">
